@@ -1,5 +1,7 @@
-This repository is not intended to threaten, defame, or harm any individual.  
+🚨 This repository is not intended to threaten, defame, or harm any individual.  
 Its purpose is to expose structural issues that obstruct life-saving intervention, based on factual analysis and lived experience.
+
+The personnel names mentioned herein are anonymized or non-identifiable, and not intended to refer to any real individual.
 
 # KR2847-incident-report
 Despite clear physical and psychological harm, and despite acknowledgment of the individual as a victim, the system continues to hide behind its structure, refusing to intervene or provide rescue. This constitutes a deliberate evasion of responsibility and an unethical abandonment of a person in need.
